@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student in Computer Science at [University of Chicago](https://www.uchicago.edu/), advised by [Prof. Kexin Pei](https://sites.google.com/site/kexinpeisite) and [Prof. Shan Lu](https://people.cs.uchicago.edu/~shanlu/).
 
-I received my M.S. degree at [UIUC](https://illinois.edu/) advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) in 2024. Prior to that, I obtained my B.S. degree from Huazhong University of Science and Technology where I was advised by [Prof. Ming Wen](https://mingwen-cs.github.io/) in 2022.
+I received my M.S. degree at [UIUC](https://illinois.edu/) advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) in 2024. Prior to that, I obtained my B.S. degree from Huazhong University of Science and Technology in 2022, where I was advised by [Prof. Ming Wen](https://mingwen-cs.github.io/).
 
 My research interests are software engineering, program analysis, program testing/repair.
 
